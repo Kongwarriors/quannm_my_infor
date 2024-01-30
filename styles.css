@@ -86,7 +86,7 @@ footer {
     align-items: center;
 }
 
-.my-contact-list ul,
+.my-contact-list table,
 .my-skills-list ul,
 .my-hobbies-detail ul {
     list-style: none;
